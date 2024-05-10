@@ -2,3 +2,4 @@
 /vendor
 /config/gemini.php
 /config/telegram.php
+/public/logs
