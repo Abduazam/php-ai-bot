@@ -1,4 +1,4 @@
 .idea
 /vendor
-/config/gemeni.php
+/config/gemini.php
 /config/telegram.php
